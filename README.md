@@ -21,6 +21,4 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lowlevellore&show_icons=true&locale=en" alt="lowlevellore" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lowlevellore&" alt="lowlevellore" /></p>
+[![LowLevelLore's Stack Overflow | Stats](https://stats.quira.sh/LowLevelLore/stack-overflow?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=LowLevelLore)
