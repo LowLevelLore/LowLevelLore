@@ -13,6 +13,7 @@
 
 - ⚡ Fun fact **I yap about python being slow and still use it.**
 
+<h3> Languages and Frameworks </h3>
 <div>
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -40,8 +41,11 @@
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali-Linux">
 </div>
 
+<h3> Stats </h3>
 
-[![LowLevelLore's Stack Overflow | Stats](https://stats.quira.sh/LowLevelLore/stack-overflow?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=LowLevelLore)
+[![LowLevelLore's GitHub | Stats](https://stats.quira.sh/LowLevelLore/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=LowLevelLore)
+  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;&nbsp;
+[![LowLevelLore's Stack Overflow | Stats](https://stats.quira.sh/LowLevelLore/stack-overflow?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=LowLevelLore) 
 
 [![LowLevelLore's GitHub | Languages Over Time](https://stats.quira.sh/LowLevelLore/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=LowLevelLore)
 
