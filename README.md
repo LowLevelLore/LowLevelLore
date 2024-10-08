@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mihirom9876@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13qK2M7smOzYqzJNT5Vo0yOhGvgHYYe_n/view](https://drive.google.com/file/d/1CzPmvl7zUe78elfVJ75-qRi3QS7qWBsT/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1CzPmvl7zUe78elfVJ75-qRi3QS7qWBsT/view?usp=sharing)
 
 - ⚡ Fun fact **I yap about python being slow and still use it.**
 
