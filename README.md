@@ -45,7 +45,7 @@
 
 [![LowLevelLore's GitHub | Stats](https://stats.quira.sh/LowLevelLore/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=LowLevelLore)
   &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;&nbsp;
-[![LowLevelLore's Stack Overflow | Stats](https://stats.quira.sh/LowLevelLore/stack-overflow?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=LowLevelLore) 
+![stack overflow rep. badge](https://stackoverflow-badge.herokuapp.com/stackoverflow?username=16807361&period=month&mini=false)
 
 [![LowLevelLore's GitHub | Languages Over Time](https://stats.quira.sh/LowLevelLore/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=LowLevelLore)
 
