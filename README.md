@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1CzPmvl7zUe78elfVJ75-qRi3QS7qWBsT/view?usp=sharing)
 
-- ⚡ Fun fact **I yap about python being slow and still use it.**
+- ⚡ Fun fact **Stuck somewhere between C/C++ and Rust, IDK where I belong ...**
 
 <h3> Languages and Frameworks </h3>
 <div>
