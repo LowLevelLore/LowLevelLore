@@ -43,11 +43,12 @@
 
 <h3> Stats </h3>
 
-[![LowLevelLore's GitHub | Stats](https://stats.quira.sh/LowLevelLore/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=LowLevelLore)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=LowLevelLore&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;&nbsp;
 ![stack overflow rep. badge](https://stackoverflow-badge.herokuapp.com/stackoverflow?username=16807361&period=month&mini=false)
 
-[![LowLevelLore's GitHub | Languages Over Time](https://stats.quira.sh/LowLevelLore/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=LowLevelLore)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=LowLevelLore&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
