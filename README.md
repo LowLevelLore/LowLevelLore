@@ -44,8 +44,8 @@
 <h3> Stats </h3>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=LowLevelLore&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![stack overflow rep. badge](https://stackoverflow-badge.herokuapp.com/stackoverflow?username=16807361&period=month&mini=false)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=LowLevelLore&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![stack overflow rep. badge](https://stackoverflow-badge.herokuapp.com/stackoverflow?username=16807361&period=month&mini=false)
 
 
 
