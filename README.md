@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mihir Patel</h1>
 <h3 align="center">A passionate backend and low level developer from India</h3>
 
-- 🔭 I’m currently working on [tbd (a compiler)](https://github.com/LowLevelLore/tbd)
+- 🔭 I’m currently working on [zust (a compiler)](https://github.com/LowLevelLore/tbd)
 
 - 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **React, Django, Rust, C, NextJS, Python, etc**
+- 💬 Ask me about **C++/C, Python, React, Django, Rust, NextJS, etc**
 
 - 📫 How to reach me **mihirom9876@gmail.com**
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1CzPmvl7zUe78elfVJ75-qRi3QS7qWBsT/view?usp=sharing)
 
-- ⚡ Fun fact **Stuck somewhere between C/C++ and Rust, IDK where I belong ...**
+- ⚡ Fun fact **C++ FTW!!!**
 
 <h3> Languages and Frameworks </h3>
 <div>
